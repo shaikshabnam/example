@@ -1,0 +1,6 @@
+Class{
+
+	public void example(){
+	System.out.println("hello there!!!");
+	}
+}
